@@ -7,7 +7,7 @@ class Endereco(models.Model):
     cidade = models.CharField(max_length=100)
     estado = models.CharField(max_length=50)
     pais = models.CharField(max_length=70)
-    latidade = models.IntegerField(null=True, blank=True)
+    latitude = models.IntegerField(null=True, blank=True)
     longitude = models.IntegerField(null=True, blank=True)
 
     def __str__(self):
