@@ -10,7 +10,7 @@ class PontoTuristicoViewSet(ModelViewSet):
     # queryset = PontoTuristico.objects.filter(aprovado=True)
     serializer_class = PontoTuristicoSerializer
 
-    permission_classes = (IsAuthenticated, IsAdminUser)
+    permission_classes = (IsAuthenticated, )
     authentication_classes = (TokenAuthentication, )
 
     def get_queryset(self):
@@ -25,3 +25,12 @@ class PontoTuristicoViewSet(ModelViewSet):
 
     def destroy(self, request, *args, **kwargs):
         return Response()
+
+    def retrieve(self, request, *args, **kwargs):
+        pass
+
+    def update(self, request, *args, **kwargs):
+        pass
+
+    def partial_update(self, request, *args, **kwargs):
+        pass
