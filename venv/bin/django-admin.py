@@ -1,4 +1,4 @@
-#!/home/jefferson/Documentos/udemy/django-rest/udemy-django-rest/venv/bin/python3
+#!/home/jefferson-farias/Documentos/cursos/udemy/udemy-django-rest/venv/bin/python
 from django.core import management
 
 if __name__ == "__main__":
