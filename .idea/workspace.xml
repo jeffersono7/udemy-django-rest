@@ -110,8 +110,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/runtime.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/pontos_turisticos/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -143,6 +147,7 @@
         <option value="$PROJECT_DIR$/pontos_turisticos/pontos_turisticos/settings.py" />
         <option value="$PROJECT_DIR$/pontos_turisticos/requirements.txt" />
         <option value="$PROJECT_DIR$/pontos_turisticos/Procfile" />
+        <option value="$PROJECT_DIR$/runtime.txt" />
       </list>
     </option>
   </component>
@@ -172,6 +177,11 @@
             <path>
               <item name="udemy-django-rest" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy-django-rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemy-django-rest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy-django-rest" type="462c0819:PsiDirectoryNode" />
+              <item name="pontos_turisticos" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -266,12 +276,12 @@
       <workItem from="1554945133984" duration="2938000" />
       <workItem from="1555197156901" duration="878000" />
       <workItem from="1563071558491" duration="1948000" />
-      <workItem from="1563133303681" duration="891000" />
+      <workItem from="1563133303681" duration="1185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13534000" />
+    <option name="totallyTimeSpent" value="13828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="768" width="1366" height="723" extended-state="6" />
@@ -502,7 +512,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/runtime.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pontos_turisticos/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
