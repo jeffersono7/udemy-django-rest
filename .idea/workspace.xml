@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ba912e57-209f-4817-aac4-7c61c7902ac0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pontos_turisticos/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pontos_turisticos/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/pontos_turisticos/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
+              <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -56,8 +57,8 @@
         <option value="$PROJECT_DIR$/pontos_turisticos/requirements.txt" />
         <option value="$PROJECT_DIR$/pontos_turisticos/Procfile" />
         <option value="$PROJECT_DIR$/runtime.txt" />
-        <option value="$PROJECT_DIR$/pontos_turisticos/settings.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/pontos_turisticos/settings.py" />
       </list>
     </option>
   </component>
@@ -186,12 +187,12 @@
       <workItem from="1554945133984" duration="2938000" />
       <workItem from="1555197156901" duration="878000" />
       <workItem from="1563071558491" duration="1948000" />
-      <workItem from="1563133303681" duration="1561000" />
+      <workItem from="1563133303681" duration="1941000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14204000" />
+    <option name="totallyTimeSpent" value="14584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="768" width="1366" height="723" extended-state="6" />
@@ -431,7 +432,7 @@
     <entry file="file://$PROJECT_DIR$/pontos_turisticos/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
+          <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
         </state>
       </provider>
     </entry>
