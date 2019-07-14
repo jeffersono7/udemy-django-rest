@@ -2,98 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba912e57-209f-4817-aac4-7c61c7902ac0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/udemy-django-rest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/udemy-django-rest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/atracoes/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/atracoes/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/atracoes/api/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/atracoes/api/serializers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/atracoes/api/viewsets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/atracoes/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/atracoes/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/atracoes/migrations/0002_atracao_foto.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/atracoes/migrations/0003_atracao_observacoes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/atracoes/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/atracoes/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/atracoes/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/atracoes/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/avaliacoes/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/avaliacoes/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/avaliacoes/api/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/avaliacoes/api/serializers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/avaliacoes/api/viewsets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/avaliacoes/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/avaliacoes/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/avaliacoes/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/avaliacoes/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/avaliacoes/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/avaliacoes/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/comentarios/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/comentarios/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/comentarios/api/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/comentarios/api/serializers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/comentarios/api/viewsets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/comentarios/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/comentarios/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/comentarios/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/comentarios/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/comentarios/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/comentarios/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/api/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/api/serializers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/api/viewsets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/migrations/0002_auto_20190403_0332.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/migrations/0003_pontoturistico_atracoes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/migrations/0004_pontoturistico_comentarios.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/migrations/0005_pontoturistico_avaliacoes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/migrations/0006_pontoturistico_endereco.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/migrations/0007_auto_20190405_0255.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/migrations/0008_pontoturistico_foto.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/core/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/enderecos/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/enderecos/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/enderecos/api/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/enderecos/api/serializers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/enderecos/api/viewsets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/enderecos/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/enderecos/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/enderecos/migrations/0002_auto_20190408_2350.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/enderecos/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/enderecos/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/enderecos/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/enderecos/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/imagens/atracoes/Captura_de_tela_de_2018-05-04_15-31-24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/imagens/pontos-turisticos/Captura_de_tela_de_2019-04-11_10-36-13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/imagens/pontos-turisticos/Captura_de_tela_de_2019-04-12_10-23-34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/imagens/pontos-turisticos/SIGPNAE_05122018.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/pontos_turisticos/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/pontos_turisticos/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/pontos_turisticos/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/pontos_turisticos/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/requirements-dev.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/activate.fish" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/django-admin" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/django-admin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/django-admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/django-admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/easy_install" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/easy_install-3.7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip3.7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/sqlformat" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/sqlformat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/sqlparse-0.3.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/sqlparse-0.3.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/pontos_turisticos/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+              <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -141,13 +50,14 @@
         <option value="$PROJECT_DIR$/pontos_turisticos/atracoes/api/viewsets.py" />
         <option value="$PROJECT_DIR$/pontos_turisticos/pontos_turisticos/urls.py" />
         <option value="$PROJECT_DIR$/pontos_turisticos/core/api/viewsets.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/pontos_turisticos/pontos_turisticos/wsgi.py" />
         <option value="$PROJECT_DIR$/pontos_turisticos/pontos_turisticos/settings.py" />
         <option value="$PROJECT_DIR$/pontos_turisticos/requirements.txt" />
         <option value="$PROJECT_DIR$/pontos_turisticos/Procfile" />
         <option value="$PROJECT_DIR$/runtime.txt" />
+        <option value="$PROJECT_DIR$/pontos_turisticos/settings.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -257,8 +167,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.AppPython" />
       <item itemvalue="Django server.UdemyDjango" />
+      <item itemvalue="Python.AppPython" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -276,12 +186,12 @@
       <workItem from="1554945133984" duration="2938000" />
       <workItem from="1555197156901" duration="878000" />
       <workItem from="1563071558491" duration="1948000" />
-      <workItem from="1563133303681" duration="1185000" />
+      <workItem from="1563133303681" duration="1561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13828000" />
+    <option name="totallyTimeSpent" value="14204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="768" width="1366" height="723" extended-state="6" />
@@ -456,13 +366,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pontos_turisticos/pontos_turisticos/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -518,10 +421,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pontos_turisticos/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
         </state>
       </provider>
     </entry>
